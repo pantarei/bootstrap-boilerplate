@@ -21,7 +21,7 @@
     "font-awesome": "~4.3.0",
     "holderjs": "~2.6.0",
     "html5shiv": "~3.7.2",
-    "less": "~2.5.0",
+    "less": "https://github.com/hswong3i/less.js.git#fireless-dist",
     "respond": "~1.4.2"
   }
 }
