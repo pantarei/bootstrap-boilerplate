@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-boilerplate",
+  "version": "0.0.0",
+  "homepage": "https://github.com/pantarei/bootstrap-boilerplate",
+  "authors": [
+    "Wong Hoi Sing Edison <hswong3i@gmail.com>"
+  ],
+  "description": "Twitter Bootstrap Boilerplate for Drupal Theme Designer",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootswatch": "~3.3.4+1",
+    "font-awesome": "~4.3.0",
+    "holderjs": "~2.6.0",
+    "html5shiv": "~3.7.2",
+    "less": "~2.5.0",
+    "respond": "~1.4.2"
+  }
+}
